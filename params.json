@@ -1,0 +1,6 @@
+{
+  "name": "Ima-go",
+  "tagline": "IMAGO softwares",
+  "body": "# Petunjuk Penggunaan IMA-GO\r\n## PERSIAPAN AWAL\r\n1. Download dan install driver CH341SER di  http://www.wch.cn/download/CH341SER_EXE.html\r\n2. Download dan install Repetier Host di https://www.repetier.com/download-now/\r\n(uncheck pilihan install repetier server jika tidak perlu)\r\n\r\n## TUTORIAL\r\nTUTORIAL 3D print menggunakan Repetier software: https://www.repetier.com/tutorials/\r\n\r\nVideo tutorial printing: https://www.youtube.com/watch?v=4xJzIfZAiyc (Aktifkan subtitle)\r\n\r\n## Setting penting \r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
