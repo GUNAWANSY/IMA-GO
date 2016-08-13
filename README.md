@@ -1,5 +1,5 @@
 # IMA-GO
-IMAGO softwares
+
 Petunjuk Penggunaan IMA-GO
 PERSIAPAN AWAL
 1. Download dan install driver CH341SER di  http://www.wch.cn/download/CH341SER_EXE.html
